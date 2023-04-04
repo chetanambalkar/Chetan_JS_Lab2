@@ -1,6 +1,6 @@
 # Quiz_Application
 
-Create a Quiz application which will have some questions along with four options for each question.
+Quiz application which will have some questions along with four options for each question.
 
 User can select an option out of the given four options. In case the user selects the correct option  a score will be awarded to the user else not.
 
